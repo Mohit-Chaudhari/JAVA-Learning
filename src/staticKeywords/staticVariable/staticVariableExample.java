@@ -1,4 +1,4 @@
-package staticKeywords;
+package staticKeywords.staticVariable;
 
 // If you declare any variable as static, it is known as a static variable.
 // The static variable can be used to refer to the common property of all objects (which is not unique for each object),

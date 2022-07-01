@@ -1,4 +1,4 @@
-package staticKeywords;
+package staticKeywords.staticVariable;
 
 public class counterWithoutStaticVariable {
     int count = 0;
